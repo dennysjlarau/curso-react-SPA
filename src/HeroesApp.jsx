@@ -1,6 +1,8 @@
 
 export const HeroesApp = () => {
   return (
-    <div>HeroesApp</div>
+    <>
+        <div>HeroesApp</div>
+    </>
   )
 }
